@@ -31,3 +31,19 @@ I enjoy transforming UI designs into clean, functional websites.
 ### 📫 Connect With Me
 
 - GitHub: [Hazemmohamed21](https://github.com/Hazemmohamed21)
+
+- ---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hazemmohamed21&show_icons=true&theme=tokyonight)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazemmohamed21&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Let's Connect!
+
+I'm always open to learning, collaboration, and new opportunities.
