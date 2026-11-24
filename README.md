@@ -8,14 +8,9 @@ I enjoy transforming UI designs into clean, functional websites.
 
 ### 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Bootstrap
-- Git & GitHub
-- Responsive Web Design
-- Figma to Code
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode,figma" />
+</p>
 
 ### 🚀 Featured Projects
 
