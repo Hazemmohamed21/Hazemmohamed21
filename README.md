@@ -39,6 +39,8 @@ I enjoy transforming UI designs into clean, functional websites.
 
 ---
 
-### 🤝 Let's Connect!
+### 🤝 Connect With Me
 
-I'm always open to learning, collaboration, and new opportunities.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hazem-mohamed-37a817280/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Hazemmohamed21)
